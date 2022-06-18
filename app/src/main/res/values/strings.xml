@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Yashasvi Baliyan</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio"><p>Hi,my name is yashasvi baliyan.
+        \n\nI am very passionate,dilligent,humble.
+        \n\nMy hobby is to play table tennis.
+        \n\nI am very fond of doing adventurous activities.
+        \n\nI dream to  become an IAS officer.
+        \n\nI want to explore the tech companies and want to be placed at a Faang company microsoft.
+        \n\nI want my parents to see me as an IAS officer  which will be mine\'s biggest achievement.
+        \n\nI have various accomplishments since my childhood like I won a gold medal in 800 metre race and got a bronze medal in 100m race .
+        \n\n Also during my school time I participated in many cultural activities.
+        \n\n In my 11h standard I was choose as a literary captain and I felt very happy to be at that post , each time I saw my batch it gave me an immense pleasure.
+        \n\nI continued that post during my 12 th standard too.\n\n</p></string>
+
+    <string name="what_is_your_nickname">what is your Nickname?</string>
+</resources>
